@@ -1,0 +1,9 @@
+[package]
+name = "pbfetch-doom"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.87"
+rascii_art = { version = "0.4.5", path = "RASCII" }
+xcap = "0.0.13"
